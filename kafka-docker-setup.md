@@ -2,7 +2,6 @@ Here's a concise and clear `kafka-docker-setup.md` file explaining your ZooKeepe
 
 ---
 
-````markdown
 # Kafka & ZooKeeper Setup Using Docker
 
 This guide explains how to run **ZooKeeper** and **Kafka** containers using Docker, using Confluent's official Docker images.
